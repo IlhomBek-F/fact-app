@@ -1,5 +1,7 @@
 # Random Info Finder
 
+![Alt text](./public/image.png)
+
 **Random Info Finder** is a simple web app that lets users explore fun facts and trivia based on numbers.  
 You can input a number and select a category — **year**, **date**, **math**, or **trivia** — to retrieve interesting facts, or leave it blank to get a random one.
 
